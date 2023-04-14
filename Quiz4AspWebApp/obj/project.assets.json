@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4AspWebApp\\Quiz4AspWebApp.csproj",
+      "projectUniqueName": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4Devops\\Quiz4AspWebApp\\Quiz4AspWebApp.csproj",
       "projectName": "Quiz4AspWebApp",
-      "projectPath": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4AspWebApp\\Quiz4AspWebApp.csproj",
+      "projectPath": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4Devops\\Quiz4AspWebApp\\Quiz4AspWebApp.csproj",
       "packagesPath": "C:\\Users\\aesha\\.nuget\\packages\\",
-      "outputPath": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4AspWebApp\\obj\\",
+      "outputPath": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4Devops\\Quiz4AspWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aesha\\AppData\\Roaming\\NuGet\\NuGet.Config",

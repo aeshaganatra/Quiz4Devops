@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FnngPxXtT7kjVNICLNy9RUDF5d4uUAEr0cDimZd5e+max4zCT5rE+zcqkl6mAZZB/TNb4HnCgPRazPmc/oJXXA==",
+  "dgSpecHash": "hbRmaepTIFgSQ3FJpQXYWx9gOWsjvux5TYuKTzyKxMoIXtI1sj9N+x3Su/nSbkMLWZKiuddwWJvVRAeKN6WZUw==",
   "success": true,
-  "projectFilePath": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4AspWebApp\\Quiz4AspWebApp.csproj",
+  "projectFilePath": "D:\\4th sem\\devops\\assignment1\\quiz4\\Quiz4AspWebApp\\Quiz4Devops\\Quiz4AspWebApp\\Quiz4AspWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
