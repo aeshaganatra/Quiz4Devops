@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Quiz4AspWebApp/1.0.0": {
+        "runtime": {
+          "Quiz4AspWebApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Quiz4AspWebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
